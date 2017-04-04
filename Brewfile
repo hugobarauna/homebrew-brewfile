@@ -39,6 +39,7 @@ cask 'google-drive'
 cask 'skype'
 cask 'spotify'
 cask 'evernote'
+cask 'magicprefs'
 # cask 'imageoptim'
 # cask 'firefox'
 
