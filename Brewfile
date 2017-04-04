@@ -28,16 +28,17 @@ brew 'libtiff'
 tap 'puma/puma'
 brew 'puma/puma/puma-dev'
 
-# tap 'caskroom/cask'
-# cask 'alfred'
+tap 'caskroom/cask'
+cask 'alfred'
 # cask 'dropbox'
+  cask 'slack'
 # cask 'firefox'
-# cask 'google-chrome'
+cask 'google-chrome'
 # cask 'imageoptim'
-# cask 'iterm2'
+cask 'iterm2'
 # cask 'spectacle'
 # cask 'virtualbox'
 
-# brew 'mas'
-# mas 'iA Writer', id: 775737590
+brew 'mas'
+mas 'iA Writer', id: 775737590
 # mas 'Keynote', id: 409183694
