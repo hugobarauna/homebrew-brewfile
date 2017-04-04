@@ -38,6 +38,7 @@ cask 'iterm2'
 cask 'google-drive'
 cask 'skype'
 cask 'spotify'
+cask 'evernote'
 # cask 'imageoptim'
 # cask 'firefox'
 
