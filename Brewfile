@@ -37,6 +37,7 @@ cask 'google-chrome'
 cask 'iterm2'
 cask 'google-drive'
 cask 'skype'
+cask 'spotify'
 # cask 'imageoptim'
 # cask 'firefox'
 
