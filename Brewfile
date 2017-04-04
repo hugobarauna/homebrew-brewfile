@@ -30,15 +30,19 @@ brew 'puma/puma/puma-dev'
 
 tap 'caskroom/cask'
 cask 'alfred'
-# cask 'dropbox'
-  cask 'slack'
-# cask 'firefox'
+cask 'dropbox'
+cask 'slack'
+cask '1password'
 cask 'google-chrome'
-# cask 'imageoptim'
 cask 'iterm2'
-# cask 'spectacle'
-# cask 'virtualbox'
+cask 'google-drive'
+# cask 'imageoptim'
+# cask 'firefox'
 
 brew 'mas'
 mas 'iA Writer', id: 775737590
+mas 'Divvy', id: 413857545
+mas 'Skitch', id: 425955336
+mas 'Twitter', id: 409789998
+mas 'Freckle', id: 879917538
 # mas 'Keynote', id: 409183694
