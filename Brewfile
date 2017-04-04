@@ -36,6 +36,7 @@ cask '1password'
 cask 'google-chrome'
 cask 'iterm2'
 cask 'google-drive'
+cask 'skype'
 # cask 'imageoptim'
 # cask 'firefox'
 
