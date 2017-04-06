@@ -41,6 +41,7 @@ cask 'spotify'
 cask 'evernote'
 cask 'magicprefs'
 cask 'calendly-click'
+cask 'caffeine'
 # cask 'imageoptim'
 # cask 'firefox'
 
