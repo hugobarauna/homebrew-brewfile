@@ -40,6 +40,7 @@ cask 'skype'
 cask 'spotify'
 cask 'evernote'
 cask 'magicprefs'
+cask 'calendly-click'
 # cask 'imageoptim'
 # cask 'firefox'
 
