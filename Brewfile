@@ -43,6 +43,7 @@ cask 'magicprefs'
 cask 'calendly-click'
 cask 'caffeine'
 cask 'appcleaner'
+cask 'ynab'
 # cask 'imageoptim'
 # cask 'firefox'
 
