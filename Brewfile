@@ -44,6 +44,8 @@ cask 'calendly-click'
 cask 'caffeine'
 cask 'appcleaner'
 cask 'ynab'
+cask 'transmission'
+cask 'kodi'
 # cask 'imageoptim'
 # cask 'firefox'
 
