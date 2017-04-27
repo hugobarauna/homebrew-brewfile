@@ -46,6 +46,7 @@ cask 'appcleaner'
 cask 'ynab'
 cask 'transmission'
 cask 'kodi'
+cask 'istat-menus'
 # cask 'imageoptim'
 # cask 'firefox'
 
