@@ -47,6 +47,7 @@ cask 'ynab'
 cask 'transmission'
 cask 'kodi'
 cask 'istat-menus'
+cask 'kindle'
 # cask 'imageoptim'
 # cask 'firefox'
 
