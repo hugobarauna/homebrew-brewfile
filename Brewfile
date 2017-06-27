@@ -48,6 +48,7 @@ cask 'transmission'
 cask 'kodi'
 cask 'istat-menus'
 cask 'kindle'
+cask 'grammarly'
 # cask 'imageoptim'
 # cask 'firefox'
 
