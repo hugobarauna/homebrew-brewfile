@@ -49,6 +49,7 @@ cask 'kodi'
 cask 'istat-menus'
 cask 'kindle'
 cask 'grammarly'
+cask 'xmind'
 # cask 'imageoptim'
 # cask 'firefox'
 
