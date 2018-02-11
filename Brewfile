@@ -40,7 +40,6 @@ cask 'spotify'
 cask 'evernote'
 cask 'magicprefs'
 cask 'calendly-click'
-cask 'caffeine'
 cask 'appcleaner'
 cask 'ynab'
 cask 'transmission'
@@ -58,4 +57,5 @@ mas 'Divvy', id: 413857545
 mas 'Skitch', id: 425955336
 mas 'Twitter', id: 409789998
 mas 'Freckle', id: 879917538
+mas 'Amphetamine', id: 937984704
 # mas 'Keynote', id: 409183694
