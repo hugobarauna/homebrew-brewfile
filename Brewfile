@@ -8,6 +8,7 @@ brew 'bash-completion'
 brew 'bash'
 brew 'brew-cask-completion'
 brew 'git'
+brew 'vim'
 
 brew 'rbenv'
 brew 'ruby-build'
@@ -48,6 +49,7 @@ cask 'istat-menus'
 cask 'kindle'
 cask 'grammarly'
 cask 'xmind'
+cask 'whatsapp'
 # cask 'imageoptim'
 # cask 'firefox'
 
@@ -58,4 +60,6 @@ mas 'Skitch', id: 425955336
 mas 'Twitter', id: 409789998
 mas 'Freckle', id: 879917538
 mas 'Amphetamine', id: 937984704
-# mas 'Keynote', id: 409183694
+mas 'Be Focused Pro - Focus Timer', id: 961632517
+mas 'MindNode 5', id: 1289197285
+mas 'Keynote', id: 409183694
