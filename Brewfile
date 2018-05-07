@@ -14,6 +14,7 @@ brew 'rbenv'
 brew 'ruby-build'
 brew 'nodenv'
 brew 'node-build'
+brew 'elixir'
 
 brew 'webp'
 brew 'gifsicle'
