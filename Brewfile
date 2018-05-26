@@ -51,6 +51,7 @@ cask 'kindle'
 cask 'grammarly'
 cask 'xmind'
 cask 'whatsapp'
+cask 'java'
 # cask 'imageoptim'
 # cask 'firefox'
 
