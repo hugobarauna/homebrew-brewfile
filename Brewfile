@@ -26,6 +26,7 @@ brew 'freetype'
 brew 'fontconfig'
 brew 'jpeg'
 brew 'libtiff'
+brew 'tree'
 
 tap 'puma/puma'
 brew 'puma/puma/puma-dev'
