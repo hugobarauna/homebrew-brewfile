@@ -49,6 +49,7 @@ cask 'kindle'
 cask 'grammarly'
 cask 'whatsapp'
 cask 'java'
+cask 'google-drive-file-stream'
 # cask 'imageoptim'
 # cask 'firefox'
 
