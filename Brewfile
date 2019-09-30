@@ -50,6 +50,7 @@ cask 'grammarly'
 cask 'whatsapp'
 cask 'java'
 cask 'google-drive-file-stream'
+cask 'krisp'
 # cask 'imageoptim'
 # cask 'firefox'
 
