@@ -51,6 +51,7 @@ cask 'whatsapp'
 cask 'java'
 cask 'google-drive-file-stream'
 cask 'krisp'
+cask 'audio-hijack'
 # cask 'imageoptim'
 # cask 'firefox'
 
