@@ -27,6 +27,8 @@ brew 'elixir'
 # brew 'libtiff'
 brew 'tree'
 
+brew 'exercism'
+
 # tap 'puma/puma'
 # brew 'puma/puma/puma-dev'
 
