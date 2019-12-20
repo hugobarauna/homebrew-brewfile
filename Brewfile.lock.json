@@ -2,16 +2,16 @@
   "entries": {
     "tap": {
       "homebrew/bundle": {
-        "revision": "1a41629972a351085d297e2c336f8eda0dc771eb"
+        "revision": "d7bc8cf3d61097cd780b84cf8b74c7b5eb7298c5"
       },
       "homebrew/core": {
-        "revision": "935b431e7568508602a66c49ae9532f61bb554c2"
+        "revision": "73c4c35d383ad6e0afbe349f98f1a4326595caca"
       },
       "homebrew/services": {
         "revision": "5d9721075f2b538e29ea4022ff666afa7065f164"
       },
       "caskroom/cask": {
-        "revision": "58f470dd800fc37ff3247a5f184cce2e55fd3f94"
+        "revision": "3675cff68535f94469d60bb746c7ae6ab1609c6d"
       }
     },
     "brew": {
@@ -103,22 +103,22 @@
         }
       },
       "vim": {
-        "version": "8.1.2250",
+        "version": "8.1.2350",
         "bottle": {
           "cellar": "/usr/local/Cellar",
           "prefix": "/usr/local",
           "files": {
             "catalina": {
-              "url": "https://homebrew.bintray.com/bottles/vim-8.1.2250.catalina.bottle.tar.gz",
-              "sha256": "0f1fa589a71190d4b17b9a88983534a016d5208d9ffacf8d6320133262edd72b"
+              "url": "https://homebrew.bintray.com/bottles/vim-8.1.2350.catalina.bottle.tar.gz",
+              "sha256": "6788792510ff89cb48e93af684544cf393bb7c58b36cb83553ed682cf34cf428"
             },
             "mojave": {
-              "url": "https://homebrew.bintray.com/bottles/vim-8.1.2250.mojave.bottle.tar.gz",
-              "sha256": "0658a5f418089b7d5939de7e9e980b66548231ca77cd3101d7708a427ac787f8"
+              "url": "https://homebrew.bintray.com/bottles/vim-8.1.2350.mojave.bottle.tar.gz",
+              "sha256": "553df9576f68fb0b8c01a15aaf6578f93ee6f68968879e57956aa04fb6ff8de1"
             },
             "high_sierra": {
-              "url": "https://homebrew.bintray.com/bottles/vim-8.1.2250.high_sierra.bottle.tar.gz",
-              "sha256": "1563e40ff9f89d65f1dac93dbbf7944dce70635204eed32833a256184b357e54"
+              "url": "https://homebrew.bintray.com/bottles/vim-8.1.2350.high_sierra.bottle.tar.gz",
+              "sha256": "567ce2c0bf9c62e6dd7f54283b161a975f13af174b91725a142a693e95c45eed"
             }
           }
         }
@@ -218,6 +218,27 @@
             }
           }
         }
+      },
+      "postgresql": {
+        "version": "12.1",
+        "bottle": {
+          "cellar": "/usr/local/Cellar",
+          "prefix": "/usr/local",
+          "files": {
+            "catalina": {
+              "url": "https://homebrew.bintray.com/bottles/postgresql-12.1.catalina.bottle.tar.gz",
+              "sha256": "309377407d7cb766d238f063c10210c4e48d48fcdadd62560346c2d4af782bc4"
+            },
+            "mojave": {
+              "url": "https://homebrew.bintray.com/bottles/postgresql-12.1.mojave.bottle.tar.gz",
+              "sha256": "2e97d7d591916d79f8e8a5ed0023c6d1e31e27a5b289d31d9b5cdf51e1d3a040"
+            },
+            "high_sierra": {
+              "url": "https://homebrew.bintray.com/bottles/postgresql-12.1.high_sierra.bottle.tar.gz",
+              "sha256": "754aac4d7055bdd801f91eef7e36ba93ee5fafd931e0a13a02bcd64e71ff34a9"
+            }
+          }
+        }
       }
     },
     "cask": {
@@ -298,7 +319,7 @@
       "Be Focused Pro - Focus Timer": null,
       "MindNode": {
         "id": "1289197285",
-        "version": "6.1.1"
+        "version": "6.1.2"
       },
       "Keynote": {
         "id": "409183694",
@@ -311,7 +332,7 @@
       "catalina": {
         "HOMEBREW_VERSION": "2.1.16",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "935b431e7568508602a66c49ae9532f61bb554c2",
+        "Homebrew/homebrew-core": "73c4c35d383ad6e0afbe349f98f1a4326595caca",
         "CLT": "1100.0.33.12",
         "Xcode": "11.0",
         "macOS": "10.15.1"

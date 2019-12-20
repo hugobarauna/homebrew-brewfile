@@ -2,6 +2,7 @@ tap 'homebrew/bundle'
 tap 'homebrew/core'
 tap 'homebrew/services'
 
+# General developer tools
 brew 'ack'
 brew 'bash-completion'
 brew 'bash'
@@ -9,10 +10,18 @@ brew 'brew-cask-completion'
 brew 'git'
 brew 'vim'
 
+# Application development related tools
+brew 'postgresql'
+
+# Ruby related tools
 # brew 'rbenv'
 # brew 'ruby-build'
+
+# Front-end development related tools
 brew 'nodenv'
 brew 'node-build'
+
+# Elixir related tools
 brew 'elixir'
 
 # brew 'webp'
