@@ -41,7 +41,6 @@ brew 'exercism'
 # tap 'puma/puma'
 # brew 'puma/puma/puma-dev'
 
-tap 'caskroom/cask'
 cask 'alfred'
 cask 'dropbox'
 cask 'slack'
