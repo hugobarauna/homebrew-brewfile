@@ -9,6 +9,7 @@ tap 'homebrew/services'
 # brew 'brew-cask-completion'
 brew 'zsh'
 brew 'git'
+brew 'asdf'
 # brew 'vim'
 
 brew 'java'
