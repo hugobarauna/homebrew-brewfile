@@ -68,6 +68,7 @@ cask 'krisp'
 # cask 'imageoptim'
 # cask 'firefox'
 cask 'visual-studio-code'
+cask 'notion'
 
 brew 'mas'
 mas 'iA Writer', id: 775737590
