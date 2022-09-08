@@ -77,5 +77,6 @@ mas 'Divvy', id: 413857545
 # mas 'Skitch', id: 425955336
 # mas 'Amphetamine', id: 937984704
 mas 'Be Focused Pro - Focus Timer', id: 961632517
+mas 'Mini Calendar', id: 1088779979
 # mas 'MindNode', id: 1289197285
 # mas 'Keynote', id: 409183694
