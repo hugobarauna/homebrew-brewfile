@@ -1,5 +1,4 @@
 tap 'homebrew/bundle'
-tap 'homebrew/core'
 tap 'homebrew/services'
 
 # General developer tools
@@ -34,6 +33,8 @@ cask 'krisp'
 # cask 'audio-hijack'
 cask 'visual-studio-code'
 cask 'rectangle-pro'
+cask 'cleanshot'
+cask 'pixelsnap'
 
 brew 'mas'
 mas 'iA Writer', id: 775737590
@@ -41,5 +42,5 @@ mas 'iA Writer', id: 775737590
 # mas 'Skitch', id: 425955336
 # mas 'Amphetamine', id: 937984704
 mas 'Be Focused Pro - Focus Timer', id: 961632517
-mas 'Mini Calendar', id: 1088779979
+# mas 'Mini Calendar', id: 1088779979
 # mas 'MindNode', id: 1289197285
