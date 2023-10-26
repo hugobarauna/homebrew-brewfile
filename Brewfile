@@ -2,7 +2,6 @@ tap 'homebrew/bundle'
 tap 'homebrew/services'
 
 # General developer tools
-brew 'zsh'
 brew 'git'
 brew 'asdf'
 # brew 'vim'
